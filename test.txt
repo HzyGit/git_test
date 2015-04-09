@@ -1,3 +1,5 @@
 a test file
 new
 
+int fun(){
+}
